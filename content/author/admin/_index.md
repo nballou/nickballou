@@ -34,7 +34,7 @@ social:
   link: https://linkedin.com/in/nballou
 - icon: skype
   icon_pack: fab
-  link: 
+  link: Skype:nick.ballou?chat
 - icon: playstation
   icon_pack: fab
   link: https://psnprofiles.com/Dudesickle?order=percent
