@@ -18,18 +18,18 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "Intermediate"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Inferential Statistics"
+  description = ""  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "file-audio"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Phonetic Analysis (in Praat)"
+  description = ""
 
 +++
