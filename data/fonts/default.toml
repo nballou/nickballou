@@ -1,0 +1,15 @@
+# Font style metadata
+name = "Default"
+
+# Optional Google font URL
+google_fonts = "Old Standard TT:400|Lato:400"
+
+# Font families
+heading_font = "Old Standard TT"
+body_font = "Lato"
+nav_font = "Lato"
+mono_font = "Lato"
+
+# Font size
+font_size = "20"
+font_size_small = "16"
