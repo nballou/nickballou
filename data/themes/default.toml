@@ -5,17 +5,17 @@ name = "forest"
 light = true
 
 # Primary
-primary = "#6AA1BF"
-primary_light = "#6AA1BF"
-primary_dark = "#6AA1BF"
+primary = "#892A41"
+primary_light = "#892A41"
+primary_dark = "#892A41"
 
 # Menu
-menu_primary = "#38393D"
+menu_primary = "#255B6B"
 menu_text = "#fff"
-menu_text_active = "#E8BB46"
+menu_text_active = "#C4B85F"
 menu_title = "#fff"
 
 # Backgrounds
-background = "#C7C8CC"
-home_section_odd = "#DDE2E3"
-home_section_even = "#DDE2E3"
+background = "#E5E4E4"
+home_section_odd = "#E5E4E4"
+home_section_even = "#C4CCD3"
