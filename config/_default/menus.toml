@@ -13,6 +13,11 @@
   url = "/posts/"
   weight = 20
 
+[[main]]
+  name = "About Me"
+  url = "/posts/about-me"
+  weight = 15
+
 #[[main]]
 # name = "Projects"
 #  url = "#projects"
