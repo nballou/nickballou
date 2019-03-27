@@ -44,7 +44,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-(note - this site is under development as of March 2019! Apologies for the sparcity of content and some unfinished designs, I hope to complete everything in the near future.)
+(note - this site is under development as of March 2019! Apologies for the sparcity of content and any unfinished designs, I hope to complete everything in the near future.)
 
 I am a recent graduate of the University of Cambridge (MPhil), having previously done my bachelor at Tulane University. Although my background is in linguistics (L2 phonetics/phonology, specifically), my current interest is in need satisfaction, motivation, and well-being related to video games. I am actively speaking with a number of researchers in this area, and hope to begin my PhD in 2019 or 2020. 
 
