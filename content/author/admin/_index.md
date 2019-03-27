@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests are broadly in video game psychology, with particular regard to game design's influence on need satisfaction and how that may interface with mental health and developmental outcomes more broadly. 
+bio: My research interests span a range of topics in video game psychology, with particular regard to game design's influence on need satisfaction and how that may interface with mental health and developmental outcomes more broadly. 
 education:
   courses:
   - course: MPhil in Theoretical and Applied Linguistics
