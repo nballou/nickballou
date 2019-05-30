@@ -4,6 +4,9 @@ authors:
 bio: My research interests span a range of topics in video game psychology, with particular regard to game design's influence on need satisfaction and how that may interface with mental health and developmental outcomes more broadly. 
 education:
   courses:
+  - course: PhD Intelligent Games and Game Intelligence
+    institution: Queen Mary, University of London
+    year: 2019-2023
   - course: MPhil in Theoretical and Applied Linguistics
     institution: University of Cambridge
     year: 2018
@@ -44,7 +47,9 @@ user_groups:
 - Researchers
 - Visitors
 ---
-(note - this site is under development as of March 2019! Apologies for the sparcity of content and any unfinished designs, I hope to complete everything in the near future.)
+(note - this site is under development as of March 2019. Apologies for the sparcity of content and any unfinished designs, I hope to complete everything in the near future!)
 
-I am a recent graduate of the University of Cambridge (MPhil), having previously done my bachelor at Tulane University. Although my background is in linguistics (L2 phonetics/phonology, specifically), my current interest is in need satisfaction, motivation, and well-being related to video games. I am actively speaking with a number of researchers in this area, and hope to begin my PhD in 2019 or 2020. 
+I am an incoming PhD student at Queen Mary, University of London, working on the effect of game design features on feelings of in-game autonomy, and how the satisfaction of this need for autonomy affects motivation and the psychological outcomes of video games more broadly. I completed my MPhil at the University of Cambridge in 2018 and did my bachelor at Tulane University. Although my background is in linguistics (L2 phonetics/phonology, specifically), my current interests lie at the various intersections of games user research, psychology, mental health, and open science.
+
+I am actively looking for opportunities to collaborate on interesting projects both in and out of academia. If any of your interests align with mine, please get in touch! I'd be delighted to speak with you.
 
