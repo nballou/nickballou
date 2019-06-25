@@ -14,27 +14,28 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Inferential Statistics"
-  description = ""  
+# [[feature]]
+#   icon = "chart-line"
+#   icon_pack = "fas"
+#   name = "Inferential Statistics"
+#   description = ""  
 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
+  name = "Inferential Statistics in R"
   description = "Intermediate"
   
-[[feature]]
-  icon = "file-audio"
-  icon_pack = "fas"
-  name = "Phonetic Analysis (in Praat)"
-  description = ""
-
 [[feature]]
   icon = "osf"
   icon_pack = "ai"
   name = "Open Science Methods"
   descriptions = ""
+
+[[feature]]
+  icon = "file-audio"
+  icon_pack = "fas"
+  name = "Phonetic Analysis in Praat"
+  description = ""
+
 +++
