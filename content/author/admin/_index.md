@@ -23,9 +23,9 @@ interests:
 - Open Science
 name: Nick Ballou
 organizations:
-- name: ""
-  url: ""
-role: Game User Researcher | Phonetician | English Teacher 
+- name: "QMUL Game AI Group"
+  url: "https://gaigresearch.github.io/"
+role: Game User Researcher | Cyberpsychologist 
 social:
 - icon: envelope
   icon_pack: fas
@@ -48,9 +48,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Hello! I am an incoming PhD student at Queen Mary, University of London in the area of games user research. I am particularly interested in the effect of game design on satisfaction of the need for autonomy in the game environment, and how this affects both motivation and the broader psychological outcomes of video game play—positive and negative. 
-
-I completed my MPhil at the University of Cambridge in 2018 and my bachelor at Tulane University in 2016. Although my background is in linguistics (L2 phonetics/phonology, specifically), my current interests lie at the intersections of games user research, psychology, mental health, and open science. 
+Hello! I am a games user research PhD student at Queen Mary University of London. I study the effect of game design and individual factors on satisfaction of the need for autonomy, and how this affects both motivation and the broader psychological outcomes of video game play - both positive and negative. My goal is to inform game design that promotes harmonious engagement and well-being, as well as develop strategies for individuals to navigate our increasingly complex digital ecosystems (hybrid reality) in a way that supports mental health.
 
 I am actively looking for opportunities to collaborate on interesting projects both in and out of academia. If any of your interests align with mine, please get in touch! I'd be delighted to speak with you.
 
