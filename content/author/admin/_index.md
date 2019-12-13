@@ -48,7 +48,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Hello! I am a games user research PhD student at Queen Mary University of London. I study the effect of game design and individual factors on satisfaction of the need for autonomy, and how this affects both motivation and the broader psychological outcomes of video game play - both positive and negative. My goal is to inform game design that promotes harmonious engagement and well-being, as well as develop strategies for individuals to navigate our increasingly complex digital ecosystems (hybrid reality) in a way that supports mental health.
+Hello! I am a games user research PhD student at Queen Mary University of London. I study the effect of game design and individual factors on satisfaction of the need for autonomy, and how this affects both motivation and the broader psychological outcomes of video game play - both positive and negative. 
 
-I am actively looking for opportunities to collaborate on interesting projects both in and out of academia. If any of your interests align with mine, please get in touch! I'd be delighted to speak with you.
-
+My goal is to inform game design that promotes harmonious engagement and well-being, as well as develop strategies for individuals to navigate our increasingly complex digital ecosystems (hybrid reality) in a way that supports mental health. I am actively looking for opportunities to collaborate on interesting projects, so if any of your interests align with mine, please get in touch! I'd be delighted to speak with you.
