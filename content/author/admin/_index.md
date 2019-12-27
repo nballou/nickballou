@@ -4,28 +4,27 @@ authors:
 bio: PhD candidate with interests in cyberpsychology and games user research, particularly with regard to game design's influence on need satisfaction and how that may interface with mental health and psychological effects of video game play.
 education:
   courses:
-  - course: PhD, Centre for Intelligent Games and Game Intelligence
+  - course: PhD, CDT in Intelligent Games and Game Intelligence
     institution: Queen Mary, University of London
     year: 2019-2023
   - course: MPhil, Theoretical and Applied Linguistics
     institution: University of Cambridge
     year: 2018
-  - course: BS in Linguistics and Environmental Studies
+  - course: BS, Linguistics and Environmental Studies
     institution: Tulane University
     year: 2016
 
 email: "nick.ballou@gmail.com"
 interests:
-- Games User Research
-- Need satisfaction
-- Typology
+- Need satisfaction/frustration
+- Dysregulated Gaming
 - Game-based (language) learning
 - Open Science
 name: Nick Ballou
 organizations:
 - name: "QMUL Game AI Group"
   url: "https://gaigresearch.github.io/"
-role: Game User Researcher | Cyberpsychologist 
+role: Motivational Psychology of Video Games PhD Candidate 
 social:
 - icon: envelope
   icon_pack: fas
@@ -48,6 +47,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Hello! I am a games user research PhD student at Queen Mary University of London. I study the effect of game design and individual factors on satisfaction of the need for autonomy, and how this affects both motivation and the broader psychological outcomes of video game play - both positive and negative. 
+Hello! I am a PhD student at Queen Mary University of London. I study need satisfaction and, increasingly, need frustration in video games, and how the combination of game design and individual factors may affect player experience and the effects that games may have on their players. More broadly, I'm interested in how need satisfaction and frustration can be used to explain motivation and both the positive and negative psychological relationships people have with video games.
 
-My goal is to inform game design that promotes harmonious engagement and well-being, as well as develop strategies for individuals to navigate our increasingly complex digital ecosystems (hybrid reality) in a way that supports mental health. I am actively looking for opportunities to collaborate on interesting projects, so if any of your interests align with mine, please get in touch! I'd be delighted to speak with you.
+My goal is to inform game design that promotes harmonious engagement and well-being, as well as develop strategies for individuals to navigate increasingly complex digital ecosystems and hybrid reality in a way that supports mental health. I am actively looking for opportunities to collaborate on interesting projects, so if any of your interests align with mine, please get in touch! I'd be delighted to speak with you.
