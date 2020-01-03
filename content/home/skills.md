@@ -33,9 +33,22 @@ subtitle = ""
   descriptions = ""
 
 [[feature]]
-  icon = "file-audio"
+  icon = "dice"
   icon_pack = "fas"
-  name = "Phonetic Analysis in Praat"
-  description = ""
+  name = "Game Design"
+  description = "Ideate | Build | Test | Evaluate"
+
+[[feature]]
+  icon = "gamepad"
+  icon_pack = "fas"
+  name = "Game Development in Unity (C#)"
+  description = "Beginner-Intermediate"
+  
+[[feature]]
+  icon = "brain"
+  icon_pack = "fas"
+  name = "Motivational Psychology"
+  description = "Self-determination theory, self-efficacy theory"
+
 
 +++
