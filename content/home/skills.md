@@ -14,12 +14,6 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
-# [[feature]]
-#   icon = "chart-line"
-#   icon_pack = "fas"
-#   name = "Inferential Statistics"
-#   description = ""  
-
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
@@ -31,7 +25,7 @@ subtitle = ""
   icon_pack = "ai"
   name = "Open Science Methods"
   descriptions = ""
-
+  
 [[feature]]
   icon = "dice"
   icon_pack = "fas"
@@ -50,5 +44,10 @@ subtitle = ""
   name = "Motivational Psychology"
   description = "Self-determination theory, self-efficacy theory"
 
+[[feature]]
+  icon = "file-audio"
+  icon_pack = "fas"
+  name = "Phonetic Analysis in Praat"
+  description = ""
 
 +++
