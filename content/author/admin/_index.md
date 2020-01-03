@@ -6,7 +6,7 @@ education:
   courses:
   - course: PhD, CDT in Intelligent Games and Game Intelligence
     institution: Queen Mary, University of London
-    year: 2019-2023
+    year: 2019-present
   - course: MPhil, Theoretical and Applied Linguistics
     institution: University of Cambridge
     year: 2018
