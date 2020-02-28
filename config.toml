@@ -53,6 +53,7 @@ preserveTaxonomyNames = true
 	angledQuotes = false
 	latexDashes = true
   extensions = ["backslashLineBreak"]
+  fractions = false
 
 [imaging]
   resampleFilter = "lanczos"
