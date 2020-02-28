@@ -5,8 +5,8 @@ date: '2020-02-28'
 slug: misunderstandings-of-sdt-in-video-games-part-1-basic-psychological-needs
 categories: []
 tags: []
-summary: 'Myths and misconceptions on what the needs for autonomy, competence, and relatedness are, and why they matter in games.'
-subtitle: 'Myths and misconceptions on what the needs for autonomy, competence, and relatedness are, and why they matter in games.'
+summary: 'Myths and misconceptions about what the needs for autonomy, competence, and relatedness are, and why they matter in games.'
+subtitle: 'Myths and misconceptions about what the needs for autonomy, competence, and relatedness are, and why they matter in games.'
 smartDashes: true
 ---
 <style>
