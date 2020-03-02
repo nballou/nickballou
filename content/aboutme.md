@@ -8,8 +8,8 @@ tags: []
 image:
   caption: ''
   focal_point: ''
-summary: 'A brief post about who I am and why I study what I study.'
-subtitle: 'A brief post about who I am and why I study what I study.'
+summary: 'A little more detail about who I am and why I study what I study.'
+subtitle: 'A little more detail about who I am and why I study what I study.'
 ---
 <style>
 body {

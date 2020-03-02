@@ -69,3 +69,8 @@ preserveTaxonomyNames = true
   
 [permalinks]
   post = "/:year/:month/:slug"
+  
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

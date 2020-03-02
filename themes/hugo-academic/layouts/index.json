@@ -44,7 +44,6 @@
               {{- $person_page := $.Site.GetPage $person_page_path -}}
               {{- if $person_page -}}
                 {{- $person := $person_page.Params -}}
-                {{- $authors = $authors | append $person.name -}}
               {{- else -}}
                 {{- $authors = $authors | append ($v | plainify) -}}
               {{- end -}}

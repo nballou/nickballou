@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: PhD candidate with interests in cyberpsychology and games user research, particularly with regard to game design's influence on need satisfaction and how that may interface with mental health and psychological effects of video game play.
+bio: PhD candidate with interests in motivational psychology and video games, particularly with regard to need satisfaction and frustration, dysregulated gaming, and how those are affected by the interaction of personality, environmental, and game design factors. Let's make games as fun and supportive of well-being as possible!
 education:
   courses:
   - course: PhD, CDT in Intelligent Games and Game Intelligence
@@ -48,6 +48,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Hello! I am a PhD student at Queen Mary University of London. I study psychological need satisfaction and, increasingly, need frustration in video games, and how the interaction of game design and individual factors affects player experience and the psychological effects of game use. More broadly, I'm interested in how basic needs can be used to explain both the positive and negative relationships people can have with video games. My goal throughout my research is to inform game design that promotes harmonious engagement and well-being, as well as develop strategies for individuals to navigate increasingly complex digital ecosystems and hybrid reality in a way that supports mental health. 
+Hello! I'm a PhD student at Queen Mary University of London studying the satisfaction and, increasingly, frustration of basic psychological needs in video games. My focus is on how the interaction of personality, contextual, and game design factors can affect player experience and the longer-term psychosocial outcomes of game play. More broadly, I'm interested in how basic needs might be used to explain both the positive and negative relationships people can have with video games. Some of the goals of my research are to support clinicians in understanding and managing dysregulated gaming and its status as a diagnostic category, to provide parents and gamers with strategies that help them to regulate gaming behavior in a healthy way, and to inform game design that promotes harmonious engagement and the well-being of players.
 
 I'm always on the lookout for opportunities to collaborate on interesting projects, so if any of your interests align with mine, please get in touch! I'd be delighted to speak with you.
