@@ -10,7 +10,7 @@ publication: "*PLOS ONE*"
 links:
   - icon_pack: fas
     icon: file
-    name: Open Access
+    name: Publisher [Open Access]
     url: 'https://doi.org/10.1371/journal.pone.0232780'
 ---
 
