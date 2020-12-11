@@ -18,13 +18,13 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "Inferential Statistics in R"
-  description = "Intermediate"
+  description = "Process | Analyze | Visualize"
   
 [[feature]]
   icon = "osf"
   icon_pack = "ai"
   name = "Open Science Methods"
-  descriptions = ""
+  description = ""
   
 [[feature]]
   icon = "dice"
@@ -42,13 +42,13 @@ subtitle = ""
   icon = "brain"
   icon_pack = "fas"
   name = "Motivational Psychology"
-  description = "Self-determination theory, self-efficacy theory"
+  description = "Self-determination theory"
 
 [[feature]]
   icon = "file-audio"
   icon_pack = "fas"
-  name = "Phonetic Analysis in Praat"
-  description = ""
+  name = "Qualitative methods"
+  description = "Thematic analysis and grounded theory"
 
 
 +++

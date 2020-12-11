@@ -19,6 +19,7 @@ interests:
 - Motivational Psychology
 - Need satisfaction/frustration
 - Dysregulated Gaming
+- Monetization in games
 - Psychometrics
 - Open Science
 name: Nick Ballou
@@ -36,9 +37,6 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://linkedin.com/in/nballou
-- icon: skype
-  icon_pack: fab
-  link: Skype:nick.ballou?chat
 - icon: playstation
   icon_pack: fab
   link: https://psnprofiles.com/nbballou?order=percent
@@ -48,8 +46,10 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Hello! I'm a PhD student at Queen Mary University of London studying the satisfaction and, increasingly, frustration of basic psychological needs in video games. My focus is on how the interaction of personality, contextual, and game design factors can affect player experience and the longer-term psychosocial outcomes of game play. More broadly, I'm interested in how basic needs might be used to explain both the positive and negative relationships people can have with video games. Some of the goals of my research are to support clinicians in understanding and managing dysregulated gaming and its status as a diagnostic category, to provide parents and gamers with strategies that help them to regulate gaming behavior in a healthy way, and to inform game design that promotes harmonious engagement and the well-being of players.
+Hello! I'm a PhD student at Queen Mary University of London studying the satisfaction and, increasingly, frustration of basic psychological needs in video games. My focus is on how the interaction of personality, contextual, and game design factors can affect player experience and the longer-term psychosocial outcomes of game play.
 
-I am supervised by [Dr Sebastian Deterding](https://codingconduct.cc/Publications), [Dr David Zendle](https://pure.york.ac.uk/portal/en/researchers/david-zendle(127e6f28-98bb-4662-a759-369391c609e6)/publications.html), and [Dr Laurissa Tokarchuk](http://www.eecs.qmul.ac.uk/~laurissa/Laurissas_Pages/About_Me.html).
+More broadly, I'm interested in how basic needs might be used to explain both the positive and negative relationships people can have with video games. My work seeks to support clinicians in understanding dysregulated gaming and its status as a diagnostic category, to provide parents and gamers with strategies that help them to regulate their gaming in a healthy way, and to inform game design that promotes harmonious engagement and the well-being of players.
+
+I am supervised by [Prof Sebastian Deterding](https://codingconduct.cc/Publications), [Dr David Zendle](https://pure.york.ac.uk/portal/en/researchers/david-zendle(127e6f28-98bb-4662-a759-369391c609e6)/publications.html), and [Dr Laurissa Tokarchuk](http://www.eecs.qmul.ac.uk/~laurissa/Laurissas_Pages/About_Me.html).
 
 I'm always on the lookout for opportunities to collaborate on interesting projects, so if any of your interests align with mine, please get in touch! I'd be delighted to speak with you.
