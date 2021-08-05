@@ -46,7 +46,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Hello! I'm a PhD student at Queen Mary University of London studying how the interaction of personality, contextual, and game design factors can affect player experience and the longer-term psychosocial outcomes of game play.
+Hello! I'm a PhD student at Queen Mary University of London studying the relationship between well-being and video game play. I look at this in terms of both quantity and quality of play.
 
 More specifically, I'm interested in how satisfaction and frustration of basic psychological needs needs might help explain both the positive and negative relationships people can have with video games. My work seeks to support clinicians in understanding dysregulated gaming and its status as a diagnostic category, to provide parents and gamers with strategies that help them to regulate their gaming in a healthy way, and to inform game design that promotes harmonious engagement and the well-being of players.
 
