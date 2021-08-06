@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: PhD candidate with interests in motivational psychology and video games, particularly with regard to need satisfaction and frustration, dysregulated gaming, and how those are affected by the interaction of personality, environmental, and game design factors. Let's make games as fun and supportive of well-being as possible!
+bio: PhD candidate with interests in motivational psychology and video games, particularly with regard to need satisfaction and frustration, dysregulated gaming, and how those are affected by personality, contextual, and game design factors. Let's make games as fun and supportive of well-being as possible!
 education:
   courses:
   - course: PhD, CDT in Intelligent Games and Game Intelligence
@@ -16,10 +16,9 @@ education:
 
 email: "nick.ballou@gmail.com"
 interests:
-- Motivational Psychology
-- Need satisfaction/frustration
+- Self-determination theory
 - Dysregulated Gaming
-- Monetization in games
+- Self-report vs objective playtime measures
 - Psychometrics
 - Open Science
 name: Nick Ballou
@@ -48,7 +47,7 @@ user_groups:
 ---
 Hello! I'm a PhD student at Queen Mary University of London studying the relationship between well-being and video game play. I look at this in terms of both quantity and quality of play.
 
-More specifically, I'm interested in how satisfaction and frustration of basic psychological needs needs might help explain both the positive and negative relationships people can have with video games. My work seeks to support clinicians in understanding dysregulated gaming and its status as a diagnostic category, to provide parents and gamers with strategies that help them to regulate their gaming in a healthy way, and to inform game design that promotes harmonious engagement and the well-being of players.
+More specifically, I'm interested in how satisfaction and frustration of basic psychological needs might explain both the positive and negative relationships people can have with video games. Why are games sometimes frustrating in a "good" way, and other times in a "bad" one? What causes people to persist through frustrating gaming moments, to their benefit or detriment? I hope that answering qustions like these can help players/parents, clinicians, and developers to understand the active ingredients of healthy gaming. 
 
 I am supervised by [Prof Sebastian Deterding](https://codingconduct.cc/Publications), [Dr David Zendle](https://pure.york.ac.uk/portal/en/researchers/david-zendle(127e6f28-98bb-4662-a759-369391c609e6)/publications.html), and [Dr Laurissa Tokarchuk](http://www.eecs.qmul.ac.uk/~laurissa/Laurissas_Pages/About_Me.html).
 
