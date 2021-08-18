@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: PhD candidate with interests in motivational psychology and video games, particularly with regard to need satisfaction and frustration, dysregulated gaming, and how those are affected by personality, contextual, and game design factors. Let's make games as fun and supportive of well-being as possible!
+bio: PhD candidate with interests in motivational psychology and video games, particularly with regard to need satisfaction and frustration, dysregulated gaming, and accurate measurement of the quality and quantity of play. Looking for evidence-based discourse around games that maximizes their fun and benefits for well-being!
 education:
   courses:
   - course: PhD, CDT in Intelligent Games and Game Intelligence
@@ -20,12 +20,12 @@ interests:
 - Dysregulated Gaming
 - Self-report vs objective playtime measures
 - Psychometrics
-- Open Science
+- Open Research
 name: Nick Ballou
 organizations:
 - name: "QMUL IGGI CDT & Game AI Group"
   url: "https://gaigresearch.github.io/"
-role: Motivational Psychology of Video Games PhD Candidate 
+role: Psychology of Video Games PhD Candidate 
 social:
 - icon: envelope
   icon_pack: fas
@@ -47,7 +47,9 @@ user_groups:
 ---
 Hello! I'm a PhD student at Queen Mary University of London studying the relationship between well-being and video game play. I look at this in terms of both quantity and quality of play.
 
-More specifically, I'm interested in how satisfaction and frustration of basic psychological needs might explain both the positive and negative relationships people can have with video games. Why are games sometimes frustrating in a "good" way, and other times in a "bad" one? What causes people to persist through frustrating gaming moments, to their benefit or detriment? I hope that answering qustions like these can help players/parents, clinicians, and developers to understand the active ingredients of healthy gaming. 
+More specifically, I'm interested in how satisfaction and frustration of basic psychological needs might explain both the positive and negative relationships people can have with video games. Why are games sometimes frustrating in a "good" way, and other times in a "bad" one? What causes people to persist through frustrating gaming moments, to their benefit or detriment? I hope that answering qustions like these can help players/parents, clinicians, and developers to understand the active ingredients of healthy gaming.
+
+I am the [UK Reproducibility Network](https://www.ukrn.org) Local Network Lead at QMUL, and am involved in science reform/open science advocacy and training, as well as meta-scientific research (when I have the time).
 
 I am supervised by [Prof Sebastian Deterding](https://codingconduct.cc/Publications), [Dr David Zendle](https://pure.york.ac.uk/portal/en/researchers/david-zendle(127e6f28-98bb-4662-a759-369391c609e6)/publications.html), and [Dr Laurissa Tokarchuk](http://www.eecs.qmul.ac.uk/~laurissa/Laurissas_Pages/About_Me.html).
 
