@@ -1,8 +1,8 @@
 ---
-title: 'Misunderstandings of SDT in Video Games, Part 1: Basic Psychological Needs'
+title: 'Self-determination theory in Video Games: Misconceptions about Basic Psychological Needs'
 author: ["admin"]
 date: '2020-02-28'
-slug: misunderstandings-of-sdt-in-video-games-part-1-basic-psychological-needs
+slug: sdt-in-video-games-basic-needs-misunderstandings
 categories: []
 tags: []
 summary: 'Myths and misconceptions about what the needs for autonomy, competence, and relatedness are, and why they matter in games.'
@@ -10,6 +10,7 @@ subtitle: 'Myths and misconceptions about what the needs for autonomy, competenc
 smartDashes: true
 aliases:
   - /posts/content/post/misunderstandings-of-sdt-in-video-games-part-1-basic-psychological-needs/
+  - /posts/misunderstandings-of-sdt-in-video-games-part-1-basic-psychological-needs/
 ---
 
 <style>
@@ -21,13 +22,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 </style>
 
-Many researchers and games industry professionals may be familiar with the “Player Experience of Need Satisfaction” (PENS)<sup>1</sup> model as a way of understanding why people play video games. If you aren’t, I hope this will be a decent primer. Those of you who *are* familiar with it, however, should especially stick around, because there’s a chance that some of what you’ve learned is incomplete or possibly outright incorrect.
+Many researchers and games industry professionals may be familiar with the “Player Experience of Need Satisfaction” (PENS)<sup>1</sup> model as a way of understanding why video games are so incredibly motivating. If you aren’t, I hope this will be a decent primer. Those of you who *are* familiar with it, however, should especially stick around, because there’s a chance that some of what you’ve learned is incomplete or possibly outright incorrect.
 
-PENS is a theory of motivation in video games based on a big overarching theory of human motivation in general called self-determination theory (SDT)<sup>2</sup>. SDT is fundamentally concerned with well-being, defined here in eudaemonic (as opposed to hedonistic) terms; rather than maximizing pleasure or happiness, well-being in this sense is defined as thriving and flourishing, or being able to access the full range of human functioning. SDT states that intrinsically motivated activities---that is, activities that one undertakes purely for the joy and pleasure of doing them---are most supportive of well-being. Extrinsically motivated activities on the other hand (which can be broken down into four categories), will have less beneficial or downright negative effects on well-being. As we know, video games are really good at fostering intrinsic motivation; most (but not all) of the time, people play video games simply for the enjoyable experience of doing it. When discussing in these terms, intrinsic motivation is actually a formalized description of fun or enjoyment, which is precisely the experience that many (but again, not all) game developers strive to create for their players. 
+PENS is a theory of motivation in video games based on a big overarching theory of human motivation in general called self-determination theory (SDT)<sup>2</sup>. SDT is fundamentally concerned with well-being, defined here in eudaimonic (as opposed to hedonistic) terms; rather than maximizing pleasure or happiness, well-being in this sense is defined as thriving and flourishing, or being able to access the full range of human functioning. SDT states that intrinsically motivated activities---that is, activities that one undertakes purely for the joy and pleasure of doing them---are most supportive of well-being. Extrinsically motivated activities on the other hand (which can be broken down into four categories), will have less beneficial or downright negative effects on well-being. As we know, video games are really good at fostering intrinsic motivation; most (but not all) of the time, people play video games simply for the enjoyable experience of doing it. When discussing in these terms, intrinsic motivation is actually a formalized description of fun or enjoyment, which is precisely the experience that many (but again, not all) game developers strive to create for their players. 
 
-First of all, let me come out and say it: I like SDT. Or, to maintain the illusion of being purely objective---even though there’s not a researcher, or human, on the planet actually capable of this---the evidence supporting SDT is pretty strong, and stronger than competing theories in my opinion. It is falsifiable, has improved since its conception in order to better account for forthcoming evidence, and has withstood a large number of severe tests<sup>3</sup>.
+First of all, let me come out and say it: I like SDT. Or, to maintain the illusion of being objective---even though there's not a researcher, or human, on the planet fully capable of this---the evidence supporting SDT is pretty strong, and stronger than competing theories in my opinion. It is falsifiable, has improved since its conception in order to better account for forthcoming evidence, and has withstood a large number of severe tests<sup>3</sup>.
 
-But that doens't mean it's perfect or true, and it especially doesn’t mean that it’s always used appropriately. The 186 word description I just gave you represents as much depth, and in some cases more depth, than what I see in a large portion of games research based on PENS and SDT. Core aspects of SDT are often poorly measured or ignored, and simply used as vague sources of hypotheses or post hoc explanations. For reference, the flagship SDT textbook released in 2017 is 756 pages long. A *lot* of work has been done using this theory, and if we dig a little further than the surface-level descriptions found in a lot of papers on video games and motivation, we can learn a lot. 
+But that doesn't mean it's perfect or true, and it especially doesn't mean that it's always used appropriately. The 186 word description I just gave you represents as much depth, and in some cases more depth, than what I see in a large portion of games research based on PENS and SDT. Core aspects of SDT are often poorly measured or ignored, and simply used as vague sources of hypotheses or post hoc explanations. For reference, the flagship SDT textbook released in 2017 is 756 pages long. A *lot* of work has been done using this theory, and if we dig a little further than the surface-level descriptions found in a lot of papers on video games and motivation, we can learn a lot. 
 
 <figure>
   <class="align-left">
