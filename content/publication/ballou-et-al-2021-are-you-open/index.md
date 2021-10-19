@@ -9,6 +9,10 @@ featured: false
 publication: "*CHI '21*"
 links:
   - icon_pack: fas
+    icon: file
+    name: Publisher Version
+    url: 'https://doi.org/10.1145/3411764.3445584'
+  - icon_pack: fas
     icon: scroll
     name: Preprint
     url: 'https://eprints.whiterose.ac.uk/170362/1/Are_You_Open_A_Content_Analysis_of_Transparency_and_Openness_Guidelines_in_HCI_Journals.pdf'
