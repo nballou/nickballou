@@ -16,5 +16,5 @@ links:
   - icon_pack: ai
     icon: osf
     name: Preprint and OSF data
-    url: 'https://doi.org/10.17605/OSF.IO/EMKYR'
+    url: 'https://osf.io/6gmw2/'
 ---
