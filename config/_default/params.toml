@@ -12,7 +12,7 @@ day_night = true
 font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Personal site of Nick Ballou, games psychology researcher"
+description = "Nick Ballou, games psychology and meta-science researcher"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = ""
@@ -64,7 +64,7 @@ appointment_url = ""
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "@nbballou", link = "https://twitter.com/nbballou"},
-  {icon = "skype", icon_pack = "fab", name = "nick.ballou", link = "skype:nick.ballou?chat"},
+  # {icon = "skype", icon_pack = "fab", name = "nick.ballou", link = "skype:nick.ballou?chat"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
