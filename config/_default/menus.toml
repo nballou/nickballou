@@ -28,6 +28,11 @@
  url = "/publication/"
  weight = 40
 
+[[main]]
+ name = "Open Science"
+ url = "/openScience/"
+ weight = 50
+
 #[[main]]
 #  name = "Tutorials"
 #  url = "/tutorial/"
