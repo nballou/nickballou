@@ -1,5 +1,6 @@
 ---
 title: "Ambition and Contentment"
+author: ["admin"]
 date: '2022-04-04T12:48:04+01:00'
 draft: false
 summary: "Ramblings on a mental battle occasioned by ambition in academia."
