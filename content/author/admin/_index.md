@@ -45,9 +45,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Hello! I'm a PhD student at Queen Mary University of London studying the relationship between well-being and video game play. I look at this in terms of both quantity and quality of play.
-
-More specifically, I'm interested in how satisfaction and frustration of basic psychological needs might explain both the positive and negative relationships people can have with games. What kinds of real-world problems do people use games to address? How do changes in how people are feeling affect subtle aspects of their gaming behavior, like playing for longer at a time or at different types of day? I hope that answering questions like these can help players/parents, clinicians, and developers to understand the "active ingredients"" of healthy gaming.
+Hello! I'm a PhD student at Queen Mary University of London studying the relationship between well-being and video game play. I look at this in terms of both quantity and quality of play. How do people use games to address frustrations in their day to day life, successfully or not? How do changes in how people are feeling affect subtle aspects of their gaming behavior, like playing for longer at a time or at different types of day? I hope that answering questions like these can help players/parents, clinicians, and developers to understand the "active ingredients"" of healthy gaming.
 
 I am the [UK Reproducibility Network](https://www.ukrn.org) Local Network Lead at QMUL, and am involved in science reform/open science advocacy and training, as well as meta-scientific research (when I have time).
 
