@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: PhD candidate with interests in motivational psychology and video games, particularly with regard to need frustration, dysregulated gaming, and measurement of both the quality and quantity of play. Looking to make science a little less broken.
+bio: PhD candidate interested in how video games and well-being relate, and using detailed behavioral data to unpack those relationships better. Looking to make science a little less broken.
 education:
   courses:
   - course: PhD, CDT in Intelligent Games and Game Intelligence
@@ -17,10 +17,10 @@ education:
 email: "nick.ballou@gmail.com"
 interests:
 - Self-determination theory
-- Dysregulated Gaming
-- Self-report vs objective playtime measures
+- Self-report vs objective play measures
+- Dysregulated (disordered) gaming
 - Psychometrics
-- Open Research
+- Open research
 name: Nick Ballou
 organizations:
 - name: "QMUL IGGI CDT & Game AI Group"
@@ -45,7 +45,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Hello! I'm a PhD student at Queen Mary University of London studying the relationship between well-being and video game play. I look at this in terms of both quantity and quality of play. How do people use games to address frustrations in their day to day life, successfully or not? How do changes in how people are feeling affect subtle aspects of their gaming behavior, like playing for longer at a time or at different types of day? I hope that answering questions like these can help players/parents, clinicians, and developers to understand the "active ingredients"" of healthy gaming.
+Hello! I'm a PhD student at Queen Mary University of London studying the relationship between well-being and video game play. I look at this in terms of both quantity and quality of play. How do people use games to address frustrations in their day to day life, successfully or not? How do changes in how people are feeling affect their gaming behavior, such as playing longer sessions or at different types of day? I hope that answering questions like these can help players/parents, clinicians, and developers to understand the "active ingredients" of healthy gaming.
 
 I am the [UK Reproducibility Network](https://www.ukrn.org) Local Network Lead at QMUL, and am involved in science reform/open science advocacy and training, as well as meta-scientific research (when I have time).
 
