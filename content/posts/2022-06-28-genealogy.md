@@ -1,10 +1,10 @@
 ---
-title: "How to Foster a Strong Academic Genealogical Tree"
+title: "How to Foster a Strong Academic Families"
 author: "admin"
 date: '2022-06-30'
 slug: fostering-academic-family-tree
 draft: no
-summary: How to Foster a Strong Academic Genealogical Tree
+summary: How to Foster a Strong Academic Families
 subtitle: Some observations about the familial social circles academics form, inspired by the wonderful Dorothy Bishop Festschrift
 smartDashes: yes
 tags: []
