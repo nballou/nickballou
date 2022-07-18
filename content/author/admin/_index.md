@@ -16,14 +16,15 @@ education:
 
 email: "nick.ballou@gmail.com"
 interests:
-- Self-determination theory
-- Self-report vs objective play measures
+- Video game play
+- Self-report vs "digital trace" play measures
 - Dysregulated (disordered) gaming
+- Self-determination theory
 - Psychometrics
 - Open research
 name: Nick Ballou
 organizations:
-- name: "QMUL IGGI CDT & Game AI Group"
+- name: "Queen Mary University of London, Intelligent Games CDT"
   url: "https://gaigresearch.github.io/"
 role: Psychology of Video Games PhD Candidate 
 social:
@@ -45,7 +46,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Hello! I'm a PhD student at Queen Mary University of London studying the relationship between well-being and video game play. I look at this in terms of both quantity and quality of play. How do people use games to address frustrations in their day to day life, successfully or not? How do changes in how people are feeling affect their gaming behavior, such as playing longer sessions or at different types of day? I hope that answering questions like these can help players/parents, clinicians, and developers to understand the "active ingredients" of healthy gaming.
+Hello! I'm a PhD student at Queen Mary University of London studying the relationship between well-being and video game play. I look at this in terms of both quantity and quality of play. How do people use games to address frustrations in their day-to-day life, successfully or not? How do changes in how people are feeling affect gaming behavior, such as playing longer sessions or at different times of day? I hope questions like these can help players/parents, clinicians, and game developers to understand the "active ingredients" of healthy gaming.
 
 I am the [UK Reproducibility Network](https://www.ukrn.org) Local Network Lead at QMUL, and am involved in science reform/open science advocacy and training, as well as meta-scientific research (when I have time).
 

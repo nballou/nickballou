@@ -23,8 +23,8 @@ subtitle = ""
 [[feature]]
   icon = "osf"
   icon_pack = "ai"
-  name = "Open Science Methods"
-  description = ""
+  name = "Open Research Methods"
+  description = "Open data/materials/code | Preregistration | Power analysis | Team science"
   
 [[feature]]
   icon = "dice"

@@ -1,11 +1,11 @@
 ---
-title: "How to Foster a Strong Academic Families"
+title: "How to Foster Strong Academic Families"
 author: "admin"
 date: '2022-06-30'
 slug: fostering-academic-family-tree
 draft: no
-summary: How to Foster a Strong Academic Families
-subtitle: Some observations about the familial social circles academics form, inspired by the wonderful Dorothy Bishop Festschrift
+summary: Some observations about the familial social circles academics form, inspired by the wonderful Dorothy Bishop Festschrift.
+subtitle: Some observations about the familial social circles academics form, inspired by the wonderful Dorothy Bishop Festschrift.
 smartDashes: yes
 tags: []
 categories: []
