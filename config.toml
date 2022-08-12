@@ -16,7 +16,7 @@ baseurl = "https://nickballou.com/"
 copyright = "&copy;Nick Ballou"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-136625373-1"
+googleAnalytics = "G-RJ9TB95D0V"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
