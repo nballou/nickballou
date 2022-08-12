@@ -15,7 +15,7 @@ font = "default"
 description = "Nick Ballou, games psychology and meta-science researcher"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = "icon.png"
+sharing_image = "logo.png"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
 twitter = "nbballou"
@@ -149,7 +149,7 @@ sharing = true
   #   0: No search engine
   #   1: Academic (built-in)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  engine = 0
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
